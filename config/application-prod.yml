@@ -4,3 +4,6 @@ server:
 spring:
   application:
     name: application-prod
+
+config:
+  info: application-prod
