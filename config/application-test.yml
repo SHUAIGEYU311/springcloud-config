@@ -1,9 +1,2 @@
-server:
-  port: 9529
-
-spring:
-  application:
-    name: application-test
-
 config:
-  info: application-test
+  info: application-test version 1

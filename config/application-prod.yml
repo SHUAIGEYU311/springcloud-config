@@ -1,9 +1,2 @@
-server:
-  port: 9528
-
-spring:
-  application:
-    name: application-prod
-
 config:
-  info: application-prod
+  info: application-prod version 1
